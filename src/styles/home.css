@@ -1,0 +1,42 @@
+/* *{
+    box-sizing: border-box;
+} */
+.information_section{
+    width: 80%;
+    margin: auto;
+}
+
+.inforamation_titles{
+    margin: 4rem 0;
+}
+
+.inforamation_titles p{
+    color: #ff6727;
+    font-size: 1.125rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 5.130px 0;
+}
+
+.inforamation_titles h1{
+    font-size: 1.45rem;
+    font-family: "Source Serif Pro", serif;
+    font-weight: bold;
+    line-height: 1.25;
+    margin-top: 0;
+    text-align: center;
+    color: #464646;
+}
+
+.cards_list{
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.cards_list li{
+    width: 33.33%;
+    margin: 1.5rem 0;
+    text-align: center;
+}

@@ -1,0 +1,33 @@
+.footer_container{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    padding: 1.5rem 0;
+    color: white;
+}
+.footer_content{
+    width: 60%;
+    margin: auto;
+}
+.footer_content span{
+    
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.footer_content p{
+    font-size: 1rem;
+}
+
+.socials_list{
+    padding: 0;
+    list-style: none;
+    width: 35%;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.socials_list li{
+    font-size: 2.5rem;
+}

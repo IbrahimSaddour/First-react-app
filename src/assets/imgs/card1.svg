@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>atoms/icons/64x64/graduate/default</title>
+    <desc>Created with Sketch.</desc>
+    <g id="atoms/icons/64x64/graduate/default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="graduateIcon" transform="translate(7.000000, 10.000000)" fill-rule="nonzero" stroke-width="1.5">
+            <polyline id="Path-3" stroke="#464646" fill="#3E9EFF" stroke-linecap="round" stroke-linejoin="round" points="39.7426856 15.7061252 51.0687743 11.1269857 26.0172009 0.27040889 0.235814243 10.5224752 26.0172009 20.9408658 35.2791527 17.168362"></polyline>
+            <ellipse id="Oval" stroke="#FBFBFD" cx="26" cy="11" rx="3" ry="2"></ellipse>
+            <circle id="Oval-2" stroke="#3E9EFF" cx="39" cy="40" r="2"></circle>
+            <path d="M9,22 L9,28.7805125 C11.5788382,32.4794068 15.3596414,35.0057118 20.3424094,36.3594276 C27.8165614,38.3900012 33.1210389,35.9544316 36.7074534,34.1968386" id="Path-4-Copy" stroke="#464646" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Path-2" stroke="#464646" stroke-linecap="round" stroke-linejoin="round" points="0.777673482 13.0535135 0.777673482 14.8752495 26.0145904 24.8741001 36.0854154 20.9494431"></polyline>
+            <path d="M28.1708396,12.231588 L38.990124,16.0745745" id="Path-5-Copy" stroke="#FBFBFD" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M38.990124,16.0745745 L38.990124,37.4461294" id="Path-5" stroke="#3E9EFF" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M36.5,43.5 L35.5,47.5" id="Line" stroke="#464646" stroke-linecap="round"></path>
+            <path d="M42.5,43.5 L41.5,47.5" id="Line-Copy" stroke="#464646" stroke-linecap="round" transform="translate(42.000000, 45.500000) scale(-1, 1) translate(-42.000000, -45.500000) "></path>
+            <path d="M39,44.4858245 L39,47.5214296" id="Line-Copy-2" stroke="#464646" stroke-linecap="round" transform="translate(39.000000, 46.003627) scale(-1, 1) translate(-39.000000, -46.003627) "></path>
+        </g>
+    </g>
+</svg>

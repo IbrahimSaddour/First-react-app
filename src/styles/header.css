@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #161d31;
+    display: flex;
+}
+
+.navbar_logo_container{
+    width: 12%;
+    height: 120px;
+}
+
+.navbar_logo{
+    float: right;
+    width: 70%;
+}
+
+.navbar_list{
+    width: 80%;
+    padding-top: 2em;
+}
+
+.navbar_list ul{
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: space-evenly;
+    color: white;
+    font-weight: bold;
+}
+
+.navbar_list ul a{
+    text-decoration: none;
+    color: white;
+    background-color: #3e9eff;
+    padding: 1em 2em;
+    border-radius:2em;
+}

@@ -1,0 +1,19 @@
+.information_card{
+    margin-right: 26px;
+}
+
+.information_card img{
+    width: 76px;
+    height: 76px;
+}
+.information_card p{
+    font-size: 1.125rem;
+    font-family: "Arimo", sans-serif;
+    line-height: 1.56;
+    margin: 0;
+}
+
+.information_card span{
+    font-size: 0.9rem;
+    color: #59585a;
+}
